@@ -1,0 +1,116 @@
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.exe
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.deps.json
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.runtimeconfig.json
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.runtimeconfig.dev.json
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.pdb
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.csprojAssemblyReference.cache
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.csproj.CoreCompileInputs.cache
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.AssemblyInfoInputs.cache
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.AssemblyInfo.cs
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.RazorTargetAssemblyInfo.cache
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.csproj.CopyComplete
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\staticwebassets\Med.Api.StaticWebAssets.Manifest.cache
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\staticwebassets\Med.Api.StaticWebAssets.xml
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.dll
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.pdb
+C:\prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.genruntimeconfig.cache
+C:\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.domain.dll
+C:\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.service.dll
+C:\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.domain.pdb
+C:\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.service.pdb
+C:\Prova\med.api\bin\Debug\netcoreapp3.1\med.repository.dll
+C:\Prova\med.api\bin\Debug\netcoreapp3.1\med.repository.pdb
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\appsettings.json
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.exe
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.deps.json
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.runtimeconfig.json
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.runtimeconfig.dev.json
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Med.Api.pdb
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.domain.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.repository.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.service.dll
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.domain.pdb
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.service.pdb
+C:\bkcp\Prova 2\Prova\Med.Api\bin\Debug\netcoreapp3.1\med.repository.pdb
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.csprojAssemblyReference.cache
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.csproj.CoreCompileInputs.cache
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.AssemblyInfoInputs.cache
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.AssemblyInfo.cs
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.RazorTargetAssemblyInfo.cache
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.csproj.CopyComplete
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\staticwebassets\Med.Api.StaticWebAssets.Manifest.cache
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\staticwebassets\Med.Api.StaticWebAssets.xml
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.dll
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.pdb
+C:\bkcp\Prova 2\Prova\Med.Api\obj\Debug\netcoreapp3.1\Med.Api.genruntimeconfig.cache

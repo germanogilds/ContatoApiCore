@@ -1,0 +1,18 @@
+C:\Prova\Med.Domain\bin\Debug\netstandard2.0\med.domain.deps.json
+C:\Prova\Med.Domain\bin\Debug\netstandard2.0\med.domain.dll
+C:\Prova\Med.Domain\bin\Debug\netstandard2.0\med.domain.pdb
+C:\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.csprojAssemblyReference.cache
+C:\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.csproj.CoreCompileInputs.cache
+C:\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.AssemblyInfoInputs.cache
+C:\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.AssemblyInfo.cs
+C:\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.dll
+C:\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.pdb
+C:\bkcp\Prova 2\Prova\Med.Domain\bin\Debug\netstandard2.0\med.domain.deps.json
+C:\bkcp\Prova 2\Prova\Med.Domain\bin\Debug\netstandard2.0\med.domain.dll
+C:\bkcp\Prova 2\Prova\Med.Domain\bin\Debug\netstandard2.0\med.domain.pdb
+C:\bkcp\Prova 2\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.csprojAssemblyReference.cache
+C:\bkcp\Prova 2\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.csproj.CoreCompileInputs.cache
+C:\bkcp\Prova 2\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.AssemblyInfoInputs.cache
+C:\bkcp\Prova 2\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.AssemblyInfo.cs
+C:\bkcp\Prova 2\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.dll
+C:\bkcp\Prova 2\Prova\Med.Domain\obj\Debug\netstandard2.0\med.domain.pdb

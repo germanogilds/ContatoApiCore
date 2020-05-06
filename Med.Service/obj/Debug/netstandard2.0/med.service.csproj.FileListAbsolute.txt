@@ -1,0 +1,28 @@
+C:\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.csprojAssemblyReference.cache
+C:\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.csproj.CoreCompileInputs.cache
+C:\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.AssemblyInfoInputs.cache
+C:\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.AssemblyInfo.cs
+C:\Prova\Med.Service\bin\Debug\netstandard2.0\med.service.deps.json
+C:\Prova\Med.Service\bin\Debug\netstandard2.0\med.service.dll
+C:\Prova\Med.Service\bin\Debug\netstandard2.0\med.service.pdb
+C:\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.dll
+C:\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.pdb
+C:\Prova\Med.Service\bin\Debug\netstandard2.0\med.domain.dll
+C:\Prova\Med.Service\bin\Debug\netstandard2.0\med.repository.dll
+C:\Prova\Med.Service\bin\Debug\netstandard2.0\med.domain.pdb
+C:\Prova\Med.Service\bin\Debug\netstandard2.0\med.repository.pdb
+C:\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.csproj.CopyComplete
+C:\bkcp\Prova 2\Prova\Med.Service\bin\Debug\netstandard2.0\med.service.deps.json
+C:\bkcp\Prova 2\Prova\Med.Service\bin\Debug\netstandard2.0\med.service.dll
+C:\bkcp\Prova 2\Prova\Med.Service\bin\Debug\netstandard2.0\med.service.pdb
+C:\bkcp\Prova 2\Prova\Med.Service\bin\Debug\netstandard2.0\med.domain.dll
+C:\bkcp\Prova 2\Prova\Med.Service\bin\Debug\netstandard2.0\med.repository.dll
+C:\bkcp\Prova 2\Prova\Med.Service\bin\Debug\netstandard2.0\med.domain.pdb
+C:\bkcp\Prova 2\Prova\Med.Service\bin\Debug\netstandard2.0\med.repository.pdb
+C:\bkcp\Prova 2\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.csprojAssemblyReference.cache
+C:\bkcp\Prova 2\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.csproj.CoreCompileInputs.cache
+C:\bkcp\Prova 2\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.AssemblyInfoInputs.cache
+C:\bkcp\Prova 2\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.AssemblyInfo.cs
+C:\bkcp\Prova 2\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.csproj.CopyComplete
+C:\bkcp\Prova 2\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.dll
+C:\bkcp\Prova 2\Prova\Med.Service\obj\Debug\netstandard2.0\med.service.pdb

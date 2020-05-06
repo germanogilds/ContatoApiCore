@@ -1,0 +1,24 @@
+C:\Prova\med.repository\bin\Debug\netstandard2.0\med.repository.deps.json
+C:\Prova\med.repository\bin\Debug\netstandard2.0\med.repository.dll
+C:\Prova\med.repository\bin\Debug\netstandard2.0\med.repository.pdb
+C:\Prova\med.repository\bin\Debug\netstandard2.0\med.domain.dll
+C:\Prova\med.repository\bin\Debug\netstandard2.0\med.domain.pdb
+C:\Prova\med.repository\obj\Debug\netstandard2.0\med.repository.csprojAssemblyReference.cache
+C:\Prova\med.repository\obj\Debug\netstandard2.0\med.repository.csproj.CoreCompileInputs.cache
+C:\Prova\med.repository\obj\Debug\netstandard2.0\med.repository.AssemblyInfoInputs.cache
+C:\Prova\med.repository\obj\Debug\netstandard2.0\med.repository.AssemblyInfo.cs
+C:\Prova\med.repository\obj\Debug\netstandard2.0\med.repository.csproj.CopyComplete
+C:\Prova\med.repository\obj\Debug\netstandard2.0\med.repository.dll
+C:\Prova\med.repository\obj\Debug\netstandard2.0\med.repository.pdb
+C:\bkcp\Prova 2\Prova\Med.Repository\bin\Debug\netstandard2.0\med.repository.deps.json
+C:\bkcp\Prova 2\Prova\Med.Repository\bin\Debug\netstandard2.0\med.repository.dll
+C:\bkcp\Prova 2\Prova\Med.Repository\bin\Debug\netstandard2.0\med.repository.pdb
+C:\bkcp\Prova 2\Prova\Med.Repository\bin\Debug\netstandard2.0\med.domain.dll
+C:\bkcp\Prova 2\Prova\Med.Repository\bin\Debug\netstandard2.0\med.domain.pdb
+C:\bkcp\Prova 2\Prova\Med.Repository\obj\Debug\netstandard2.0\med.repository.csprojAssemblyReference.cache
+C:\bkcp\Prova 2\Prova\Med.Repository\obj\Debug\netstandard2.0\med.repository.csproj.CoreCompileInputs.cache
+C:\bkcp\Prova 2\Prova\Med.Repository\obj\Debug\netstandard2.0\med.repository.AssemblyInfoInputs.cache
+C:\bkcp\Prova 2\Prova\Med.Repository\obj\Debug\netstandard2.0\med.repository.AssemblyInfo.cs
+C:\bkcp\Prova 2\Prova\Med.Repository\obj\Debug\netstandard2.0\med.repository.csproj.CopyComplete
+C:\bkcp\Prova 2\Prova\Med.Repository\obj\Debug\netstandard2.0\med.repository.dll
+C:\bkcp\Prova 2\Prova\Med.Repository\obj\Debug\netstandard2.0\med.repository.pdb
